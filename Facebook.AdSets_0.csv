@@ -1,0 +1,5 @@
+ID,Name,Target,BudgetRemaining,CampaignId,AdSetStatus,BillingEvent,CreatedTime,DailyBudget,LifetimeBudget,EndTime,StartTime,UpdatedTime,TargetingGenders,TargetingAgeMax,TargetingAgeMin,Targeting States,TargetingLocationTypes,TargetingRegions,TargetingCities,TargetingCustomLocations,TargetingGeoMarkets,TargetingInterests,TargetingBehaviors,TargetingPageTypes
+100,brand_awareness_north,act_101,7865,6058631,ACTIVE,IMPRESSIONS,12/7/2015 16:31,15000,0,,13/07/2015 16:31,3/11/2016 9:04,1,34,10,PA,homerecent,,,,,,,
+101,brand_awareness_eu,act_102,32274,6058631,ACTIVE,LINK_CLICKS,12/7/2015 16:31,60000,0,,13/07/2015 16:31,3/11/2016 9:04,,34,12,NY,homerecent,,,,,,,
+102,recruiting_north,act_103,26922,6058632,PAUSED,CLICKS,12/7/2015 16:31,46000,0,,13/07/2015 16:31,3/11/2016 9:04,,75,20,VA,homerecent,,,,,,,
+103,recruiting_uk,act_104,22342,6058632,PAUSED,LINK_CLICKS,12/7/2015 16:31,38000,0,,13/07/2015 16:31,3/11/2016 9:04,,49,25,OH,homerecent,,,,,,,
